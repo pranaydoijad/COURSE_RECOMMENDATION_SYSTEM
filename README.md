@@ -1,4 +1,4 @@
-# Course Recommendation System - Phase 3: Deployment
+# Course Recommendation System : Deployment
 
 A production-ready recommendation engine for online courses. This directory contains all files needed to deploy and use the system.
 
